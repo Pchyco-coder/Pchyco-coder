@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Pchyco-coder
-- 👀 I’m interested in programming 
+- 👀 I’m interested in programming
+- 😎 I'm Pursuing an Bachelor Of Engineering in Computer Science And Design at Karpagam College Of Engineering,Coimbatore
 - 🌱 I’m currently learning survival the programming world
 - 💞️ I’m looking to collaborate on searching 
 - 📫 How to reach me my WhatsApp number 6383710075
